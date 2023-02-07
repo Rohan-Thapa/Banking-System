@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "name": "Rohan Thapa",
+            "account": "293847293472934872934",
+            "DOB": "2001/05/21",
+            "password": "175fe25e87635a040e8e2177232def9001bf05d757cee3848ecc112006426091",
+            "balance": 1470,
+            "ver": "6bd789fc51cafc58b011b09ecfb4317564e727cdb24d0fb57b561cd32b38ab3d"
+        },
+        {
+            "name": "Raghab Pokhrel",
+            "account": "23948723948723498",
+            "DOB": "2002/08/22",
+            "password": "14148c71d15d86835e73e5f3a75dd326cbab9e2e781709928c1ce5b0454de4a8",
+            "balance": 0,
+            "ver": "44ad2f631ee3ee7757b5806eff9de4f9c499500568fe48b8e08dbd66b5b8f420"
+        },
+        {
+            "name": "Suman Paudel",
+            "account": "983472934729347923",
+            "DOB": "2004/09/22",
+            "password": "989278ad10e33d97c46f21c99bb4fca1d46b4f9088cad49c83e855facd90db49",
+            "balance": 1000,
+            "ver": "75d1cee2c64510726c0fa25d25a272150cb25e0ea829d572c8840b06f5860d83"
+        },
+        {
+            "name": "Rohan Joshi",
+            "account": "83947293479529342",
+            "DOB": "2000/02/20",
+            "password": "c48b1f773456fde18ba13960988ff2623921528b63d6188eb1bc62e8a7f858cc",
+            "balance": 150,
+            "ver": "bad892894dbaf76c2a0dc1ff5d99068de6d571b0f84a6d1231f6764ff3a5b390"
+        },
+        {
+            "name": "Subodh Ghimire",
+            "account": "239847293847293487",
+            "DOB": "1999/02/20",
+            "password": "8771846e05db004e000501f1e27391237e78f25f96c6f100ca08169c9963540e",
+            "balance": 700,
+            "ver": "fd7d301a90d19cbd28d17d085977d08ae7ccd486710ca6fb979000f3aea07d1f"
+        }
+    ]
+}
