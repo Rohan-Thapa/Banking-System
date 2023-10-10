@@ -12,6 +12,6 @@ Firstly, we need to run the server
 Then we need to run the client for services
 > python client.py (In Windows)
 
-If on Linux/MacOS
+
 
 > python3 client.py (In Linux and MacOS)
